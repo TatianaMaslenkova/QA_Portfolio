@@ -1,0 +1,15 @@
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\bin\Debug\net6.0\Seminar3_Denis_Task19HW.exe
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\bin\Debug\net6.0\Seminar3_Denis_Task19HW.deps.json
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\bin\Debug\net6.0\Seminar3_Denis_Task19HW.runtimeconfig.json
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\bin\Debug\net6.0\Seminar3_Denis_Task19HW.dll
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\bin\Debug\net6.0\Seminar3_Denis_Task19HW.pdb
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.csproj.AssemblyReference.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.AssemblyInfoInputs.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.AssemblyInfo.cs
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.csproj.CoreCompileInputs.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.dll
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\refint\Seminar3_Denis_Task19HW.dll
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.pdb
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\Seminar3_Denis_Task19HW.genruntimeconfig.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar3_Denis_Task19HW\obj\Debug\net6.0\ref\Seminar3_Denis_Task19HW.dll

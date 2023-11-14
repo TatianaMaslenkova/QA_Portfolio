@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Seminar6_Denis_Task44/1.0.0": {
+        "runtime": {
+          "Seminar6_Denis_Task44.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seminar6_Denis_Task44/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\bin\Debug\net6.0\Seminar8_Denis_Task61HW.exe
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\bin\Debug\net6.0\Seminar8_Denis_Task61HW.deps.json
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\bin\Debug\net6.0\Seminar8_Denis_Task61HW.runtimeconfig.json
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\bin\Debug\net6.0\Seminar8_Denis_Task61HW.dll
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\bin\Debug\net6.0\Seminar8_Denis_Task61HW.pdb
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.csproj.AssemblyReference.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.AssemblyInfoInputs.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.AssemblyInfo.cs
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.csproj.CoreCompileInputs.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.dll
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\refint\Seminar8_Denis_Task61HW.dll
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.pdb
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\Seminar8_Denis_Task61HW.genruntimeconfig.cache
+C:\Users\sevas\Desktop\CS_practise_all_in_one\Seminar8_Denis_Task61HW\obj\Debug\net6.0\ref\Seminar8_Denis_Task61HW.dll

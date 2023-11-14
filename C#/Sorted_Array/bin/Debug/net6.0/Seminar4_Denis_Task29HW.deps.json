@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Seminar4_Denis_Task29HW/1.0.0": {
+        "runtime": {
+          "Seminar4_Denis_Task29HW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seminar4_Denis_Task29HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
